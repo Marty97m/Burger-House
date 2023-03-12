@@ -49,5 +49,12 @@ p{
 #menu a {
     text-decoration: none;
     color:rgba(188, 9, 18, 0.88);
+
     
+}
+#burger-image{
+    width: 100%;
+    position:absolute;
+    
+
 }
